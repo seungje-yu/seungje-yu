@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**seungje-yu/seungje-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## 기술 스택
 
 🚀 프로그래밍 언어: ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -13,6 +10,11 @@
 
 
 ![GitHub 통계](https://github-readme-stats.vercel.app/api?username=seungje-yu&show_icons=true&theme=radical)
+
+
+<!--
+**seungje-yu/seungje-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 Here are some ideas to get you started:
